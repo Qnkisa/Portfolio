@@ -12,7 +12,7 @@ export default function HomeProjects() {
             <div className="projects-container">
                 <div className="project">
                     <div className="project-image">
-                        <a href="https://sweet-beignet-3c406a.netlify.app" target='_blank'>
+                        <a href="https://fit-connect-bg.vercel.app/" target='_blank'>
                             <img src="/fitconnect-hero-real.png" alt="" />
                         </a>
                     </div>
@@ -45,14 +45,14 @@ export default function HomeProjects() {
                         </div>
                     </div>
                     <div className="project-image">
-                        <a href="https://chimerical-capybara-ef5e38.netlify.app" target='_blank'>
+                        <a href="https://peak-performance-bg.vercel.app/" target='_blank'>
                             <img src="/peakperformance-hero-real.png" alt="" />
                         </a>
                     </div>
                 </div>
                 <div className="project">
                     <div className="project-image">
-                        <a href="https://stirring-shortbread-2b9067.netlify.app" target='_blank'>
+                        <a href="https://coin-wise-bg.vercel.app/" target='_blank'>
                             <img src="/coinwise-hero-real.png" alt="" />
                         </a>
                     </div>
@@ -85,7 +85,7 @@ export default function HomeProjects() {
                         </div>
                     </div>
                     <div className="project-image">
-                        <a href="https://soft-pixie-1b706f.netlify.app" target='_blank'>
+                        <a href="https://time-lux-bg.vercel.app/" target='_blank'>
                             <img src="/timelux-hero-real.png" alt="" />
                         </a>
                     </div>
